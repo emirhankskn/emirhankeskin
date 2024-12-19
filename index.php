@@ -56,10 +56,11 @@
         </nav><!-- .navbar -->
 
         <div class="social-links">
-          <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-          <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-          <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-          <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+          <a href="https://github.com/emirhankskn" target="_blank" class="twitter"><i class="bi bi-github"></i></a>
+          <a href="https://www.linkedin.com/in/ahmet-emirhan-keskin-0141a41a5/" target="_blank" class="linkedin"><i
+              class="bi bi-linkedin"></i></a>
+          <a href="https://www.instagram.com/kskn_1266/profilecard/?igsh=MWdxdTZsa2RodXE1NA==" target="_blank"
+            class="instagram"><i class="bi bi-instagram"></i></a>
         </div>
       </div>
     </div>
@@ -106,4 +107,5 @@
   <script src="assets/js/main.js"></script>
 
 </body>
+
 </html>

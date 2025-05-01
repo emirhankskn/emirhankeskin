@@ -38,7 +38,7 @@
     padding: 12px 16px;
     border-radius: 7px;
     width: fit-content;">
-        <h1><a href="#header">A.Emirhan Keskin</a></h1>
+        <h1><a href="#header">A.asdasd Keskin</a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html" class="mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
         <h2>I'm a passionate <span>developer</span> from Turkey.</h2>

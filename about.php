@@ -76,16 +76,16 @@
         </div>
 
         <div class="progress">
-          <span class="skill">Pandas <i class="val">95%</i></span>
+          <span class="skill">Numpy <i class="val">90%</i></span>
           <div class="progress-bar-wrap">
-            <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+            <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div>
 
         <div class="progress">
-          <span class="skill">Numpy <i class="val">85%</i></span>
+          <span class="skill">Pandas <i class="val">95%</i></span>
           <div class="progress-bar-wrap">
-            <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+            <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div>
 
@@ -104,25 +104,23 @@
         </div>
 
         <div class="progress">
-          <span class="skill">Plotly <i class="val">65%</i></span>
-          <div class="progress-bar-wrap">
-            <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-6">
-        <div class="progress">
-          <span class="skill">TensorFlow <i class="val">75%</i></span>
+          <span class="skill">Plotly <i class="val">75%</i></span>
           <div class="progress-bar-wrap">
             <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div>
 
         <div class="progress">
-          <span class="skill">Keras <i class="val">80%</i></span>
+          <span class="skill">Scikit-learn <i class="val">80%</i></span>
           <div class="progress-bar-wrap">
             <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div>
+
+        <div class="progress">
+          <span class="skill">TensorFlow <i class="val">70%</i></span>
+          <div class="progress-bar-wrap">
+            <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div>
 
@@ -132,28 +130,8 @@
             <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div>
-
-        <div class="progress">
-          <span class="skill">OpenCV <i class="val">80%</i></span>
-          <div class="progress-bar-wrap">
-            <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-          </div>
-        </div>
-
-        <div class="progress">
-          <span class="skill">CVZone <i class="val">75%</i></span>
-          <div class="progress-bar-wrap">
-            <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-          </div>
-        </div>
-
-        <div class="progress">
-          <span class="skill">MediaPipe <i class="val">80%</i></span>
-          <div class="progress-bar-wrap">
-            <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-          </div>
-        </div>
       </div>
+
 
       <div class="col-lg-6">
         <div class="progress">
@@ -164,16 +142,16 @@
         </div>
 
         <div class="progress">
-          <span class="skill">CSS <i class="val">85%</i></span>
+          <span class="skill">CSS <i class="val">90%</i></span>
           <div class="progress-bar-wrap">
-            <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+            <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div>
 
         <div class="progress">
-          <span class="skill">Bootstrap 5 <i class="val">75%</i></span>
+          <span class="skill">Bootstrap 5 <i class="val">85%</i></span>
           <div class="progress-bar-wrap">
-            <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+            <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div>
 
@@ -185,9 +163,106 @@
         </div>
 
         <div class="progress">
-          <span class="skill">Git <i class="val">90%</i></span>
+          <span class="skill">jQuery <i class="val">70%</i></span>
+          <div class="progress-bar-wrap">
+            <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div>
+
+        <div class="progress">
+          <span class="skill">PHP <i class="val">90%</i></span>
           <div class="progress-bar-wrap">
             <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div>
+
+        <div class="progress">
+          <span class="skill">Flask <i class="val">85%</i></span>
+          <div class="progress-bar-wrap">
+            <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div>
+
+        <div class="progress">
+          <span class="skill">Django <i class="val">80%</i></span>
+          <div class="progress-bar-wrap">
+            <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="col-lg-6">
+        <div class="progress">
+          <span class="skill">C# <i class="val">85%</i></span>
+          <div class="progress-bar-wrap">
+            <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div>
+
+        <div class="progress">
+          <span class="skill">ASP.NET Core MVC <i class="val">80%</i></span>
+          <div class="progress-bar-wrap">
+            <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div>
+
+        <div class="progress">
+          <span class="skill">Entity Framework Core <i class="val">75%</i></span>
+          <div class="progress-bar-wrap">
+            <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div>
+
+        <div class="progress">
+          <span class="skill">LINQ <i class="val">80%</i></span>
+          <div class="progress-bar-wrap">
+            <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div>
+
+        <div class="progress">
+          <span class="skill">ADO.NET <i class="val">70%</i></span>
+          <div class="progress-bar-wrap">
+            <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div>
+
+        <div class="progress">
+          <span class="skill">Windows Forms <i class="val">80%</i></span>
+          <div class="progress-bar-wrap">
+            <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div>
+
+        <div class="progress">
+          <span class="skill">CustomTkinter (Python UI) <i class="val">80%</i></span>
+          <div class="progress-bar-wrap">
+            <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="col-lg-6">
+        <div class="progress">
+          <span class="skill">SQL / MySQL / SQLite / MSSQL <i class="val">80%</i></span>
+          <div class="progress-bar-wrap">
+            <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div>
+
+        <div class="progress">
+          <span class="skill">SQLAlchemy <i class="val">75%</i></span>
+          <div class="progress-bar-wrap">
+            <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+          </div>
+        </div>
+
+        <div class="progress">
+          <span class="skill">Web Scraping (Requests, BS4, Selenium) <i class="val">85%</i></span>
+          <div class="progress-bar-wrap">
+            <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div>
 
@@ -197,37 +272,29 @@
             <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div>
-      </div>
 
-      <div class="col-lg-6">
         <div class="progress">
-          <span class="skill">PHP <i class="val">90%</i></span>
+          <span class="skill">Git & GitHub <i class="val">90%</i></span>
           <div class="progress-bar-wrap">
             <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div>
 
         <div class="progress">
-          <span class="skill">SQL/ SQLite/ MySQL <i class="val">75%</i></span>
-          <div class="progress-bar-wrap">
-            <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-          </div>
-        </div>
-
-        <div class="progress">
-          <span class="skill">C# <i class="val">85%</i></span>
+          <span class="skill">Linux & Terminal / SSH / Bash / Package Managers <i class="val">85%</i></span>
           <div class="progress-bar-wrap">
             <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div>
 
         <div class="progress">
-          <span class="skill">Entity Framework <i class="val">72%</i></span>
+          <span class="skill">Object Oriented Programming <i class="val">90%</i></span>
           <div class="progress-bar-wrap">
-            <div class="progress-bar" role="progressbar" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"></div>
+            <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
         </div>
       </div>
+
 
     </div>
   </div>
